@@ -24,11 +24,11 @@
 </p>
 
 
-<!--이메일 -->
+<!--이메일 
 <p align = right>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjs939883@gmail.com)](mailto:sjs939883@gmail.com)
 </p>
-
+-->
 <!--
 Here are some ideas to get you started:
 
