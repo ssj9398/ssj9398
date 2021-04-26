@@ -26,12 +26,8 @@
 
 <!--이메일 -->
 <p align = right>
-  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjs939883@gmail.com)](mailto:sjs939883@gmail.com)
 </p>
-
-<!--티스토리 -->
-<p><a href="https://alisyabob.tistory.com">티스토리</a></p>
 
 <!--
 Here are some ideas to get you started:
