@@ -7,15 +7,16 @@
 <p align = center>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssj9398)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssj9398&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
-<!-- MOST LANGUAGES -->
+<!-- MOST LANGUAGES 
 <p align = center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssj9398&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
+-->
 
 <!--방문자 -->
 <p align = right>
