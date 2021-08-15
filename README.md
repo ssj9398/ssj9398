@@ -15,8 +15,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssj9398&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+START_SECTION:waka
+  END_SECTION:waka
 
 <!-- MOST LANGUAGES 
 <p align = center>
