@@ -77,7 +77,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssj9398&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssj9398&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
- [![{wakatime ssj9398} wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username={wakatimessj9398})](https://wakatime.com/@{wakatimessj9398})
+ [![{ssj9398} wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username={ssj9398})](https://wakatime.com/@{ssj9398})
 
 <!--
 **ssj9398/ssj9398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
